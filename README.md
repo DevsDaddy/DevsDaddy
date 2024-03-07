@@ -1,4 +1,5 @@
 # Hello, everyone! 👋
+<img src="https://github.com/DevsDaddy/DevsDaddy/blob/main/cover.png?raw=true" alt="Unity DevsDaddy" style="width: 100%" /><br>
 🤔 My name is Elijah, I've been working in the game development industry for more than 10 years and I love to solve various problems related to my field.<br>
 🔭 My main tool as a person working with both mobile and console games is of course Unity.<br>
 ⚡I also worked with WebGL and used mostly C# or NodeJS as a server language. I would be glad to share my experience - you can always write to me in Discord (SodaBoom).
@@ -22,11 +23,6 @@ My experience with Unity captures many different aspects, including:
 * Machine Learning;
 * Audio and Video Compression;
 * Rendering Pipelines and Shaders;
-
-## Current Work
-<b>Right now I'm worked in Anasaea and Beyondreal Team:</b><br/>
-* <a href="https://anasaea.com/" target="_blank">Anasaea - Digital Galleries</a><br/>
-* <a href="https://beyondreal.life/" target="_blank">Beyondreal - Spartial Collaboration Platform</a><br/>
 
 ## Open Source Projects
 **You can use this set of Libraries, Projects and Tools absolutely for free:**<br/><br/>
