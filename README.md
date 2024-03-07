@@ -24,8 +24,17 @@ My experience with Unity captures many different aspects, including:
 * Audio and Video Compression;
 * Rendering Pipelines and Shaders;
 
-## Open Source Projects
+## Latest Open Source Projects
 **You can use this set of Libraries, Projects and Tools absolutely for free:**<br/><br/>
 <a href="https://github.com/DevsDaddy/GameShield">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=GameShield&theme=synthwave" />
+</a>
+<a href="https://github.com/DevsDaddy/OneUIKit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=OneUIKit&theme=synthwave" />
+</a>
+<a href="https://github.com/DevsDaddy/AudioFramework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=AudioFramework&theme=synthwave" />
+</a>
+<a href="https://github.com/DevsDaddy/UIFramework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UIFramework&theme=synthwave" />
 </a>
