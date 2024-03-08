@@ -26,15 +26,41 @@ My experience with Unity captures many different aspects, including:
 
 ## Latest Open Source Projects
 **You can use this set of Libraries, Projects and Tools absolutely for free:**<br/><br/>
-<a href="https://github.com/DevsDaddy/GameShield">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=GameShield&theme=synthwave" />
-</a>
-<a href="https://github.com/DevsDaddy/OneUIKit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=OneUIKit&theme=synthwave" />
-</a>
-<a href="https://github.com/DevsDaddy/AudioFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=AudioFramework&theme=synthwave" />
-</a>
-<a href="https://github.com/DevsDaddy/UIFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UIFramework&theme=synthwave" />
-</a>
+<table style="border: none !important;">
+  <tr>
+    <td>
+      <a href="https://github.com/DevsDaddy/GameShield">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=GameShield&theme=synthwave" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DevsDaddy/OneUIKit">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=OneUIKit&theme=synthwave" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/DevsDaddy/AudioFramework">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=AudioFramework&theme=synthwave" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DevsDaddy/UIFramework">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UIFramework&theme=synthwave" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none">
+    <td>
+      <a href="https://github.com/DevsDaddy/UnityCrypto">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnityCrypto&theme=synthwave" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DevsDaddy/Unity-UI-Audio-Collection">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=Unity-UI-Audio-Collection&theme=synthwave" />
+      </a>
+    </td>
+  </tr>
+</table>
