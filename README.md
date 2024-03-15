@@ -6,7 +6,7 @@
 <br/><br/>
 
 ## Join Community
-- <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>;
+- <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>
 - <a href="https://boosty.to/devsdaddy">Buy me a Beer (Boosty)</a>
 
 ## Statistics
