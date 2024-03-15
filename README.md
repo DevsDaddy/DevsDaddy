@@ -5,6 +5,11 @@
 ⚡I also worked with WebGL and used mostly C# or NodeJS as a server language. I would be glad to share my experience - you can always write to me in Discord (SodaBoom).
 <br/><br/>
 
+## Join Community
+- <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>;
+- <a href="https://boosty.to/devsdaddy">Buy me a Beer (Boosty)</a>
+
+## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=DevsDaddy&count_private=true&show_icons=true&theme=synthwave" />
 </a>
