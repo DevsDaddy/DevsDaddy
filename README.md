@@ -47,8 +47,8 @@ My experience with Unity captures many different aspects, including:
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/DevsDaddy/AudioFramework">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=AudioFramework&theme=synthwave" />
+      <a href="https://github.com/DevsDaddy/UnitySimpleLocalization">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnitySimpleLocalization&theme=synthwave" />
       </a>
     </td>
     <td>
