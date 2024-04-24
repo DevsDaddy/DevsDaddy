@@ -13,6 +13,8 @@
 <a href="https://github.com/DevsDaddy/UIFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UIFramework&theme=synthwave" /></a>
 <a href="https://github.com/DevsDaddy/UnityEventFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnityEventFramework&theme=synthwave" /></a>
 <a href="https://github.com/DevsDaddy/UnityCrypto"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnityCrypto&theme=synthwave" /></a>
+<a href="https://github.com/DevsDaddy/UnityXScaling"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnityXScaling&theme=synthwave" /></a>
+<a href="https://github.com/DevsDaddy/Unity-UI-Audio-Collection"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=Unity-UI-Audio-Collection&theme=synthwave" /></a>
 <a href="https://github.com/DevsDaddy/UnitySimpleLocalization"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnitySimpleLocalization&theme=synthwave" /></a>
 
 ## Support Me
