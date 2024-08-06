@@ -27,6 +27,7 @@
 
 ## Join Community
 - <a href="https://devsdaddy.hashnode.dev/">My Blog with Tutorials and All Libraries</a>
+- <a href="https://t.me/unitydaddy">Telegram Channel</a>
 - <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>
 - <a href="https://boosty.to/devsdaddy">Buy me a Beer (Boosty)</a>
 
