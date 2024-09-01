@@ -22,6 +22,7 @@
 <table>
   <tr><td>Bitcoin (BTC)</td><td>bc1qef2d34r4xkrm48zknjdjt7c0ea92ay9m2a7q55</td></tr>
   <tr><td>Etherium (ETH)</td><td>0x1112a2Ef850711DF4dE9c432376F255f416ef5d0</td></tr>
+  <tr><td>USDT (TRC20)</td><td>TRf7SLi6trtNAU6K3pvVY61bzQkhxDcRLC</td></td>
   <tr><td>Boosty</td><td>https://boosty.to/devsdaddy</td></tr>
 </table>
 
