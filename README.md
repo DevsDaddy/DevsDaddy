@@ -4,15 +4,20 @@
 
 ###
 
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=devsdaddy" alt="DevsDaddy"/>       
+    <a href="https://github.com/devsdaddy?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/devsdaddy" alt="Repos"/></a>
+    <img src="https://badges.pufler.dev/years/devsdaddy" alt="Active_Years"/>
+    <a href="https://github.com/devsdaddy/devsdaddy" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/devsdaddy" alt="commits"/>
+    <a href="https://github.com/devsdaddy?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/devsdaddy?color=4C1&logo=github"></a>
+    <a href="https://github.com/devsdaddy/devsdaddy" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/devsdaddy/devsdaddy?label=Profile%20update&style=fflat-square"></a>
+</p> 
+
 <br clear="both">
 
 <p align="left">🔭 I'm are currently working at <a href="https://ncommx.com/">NeuroCart Platform</a> and some gamedev projects;<br>🌱 Currently learning new AI Models and tools for business groth;<br>🤝 I'm looking for help with backend architecture optimization;<br>👯 We are hiring to create a new ecommerce technologies in Neurosell;<br>💬 Ask me about gamedev or backend development, network and protocols, security;<br><br><b>Nice to meet you!</b></p>
 
-<h3 align="left">My Blogs:</h3>
-<p align="left">
-<a href="https://dev.to/devsdaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devsdaddy" height="30" width="40" /></a>
-<a href="https://hashnode.com/@devsdaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devsdaddy" height="30" width="40" /></a>
-</p>
+[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/devsdaddy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ###
 
@@ -115,52 +120,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=bash" height="32" alt="bash logo"  />
 </div>
-
-###
-
-## Latest Open Source Projects
-**You can use this set of Libraries, Projects and Tools absolutely for free:**<br/><br/>
-<a href="https://github.com/DevsDaddy/GameShield"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=GameShield&theme=radical&hide_border=true" /> </a>
-<a href="https://github.com/DevsDaddy/OneUIKit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=OneUIKit&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/DevsDaddy/UIFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UIFramework&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/DevsDaddy/UnityEventFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnityEventFramework&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/DevsDaddy/UnityCrypto"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnityCrypto&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/DevsDaddy/UnityXScaling"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnityXScaling&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/DevsDaddy/Unity-UI-Audio-Collection"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=Unity-UI-Audio-Collection&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/DevsDaddy/UnitySimpleLocalization"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=UnitySimpleLocalization&theme=radical&hide_border=true" /></a>
-
-<br clear="both">
-
-## Join Community
-- <a href="https://devsdaddy.hashnode.dev/">My Blog with Tutorials and All Libraries</a>
-- <a href="https://t.me/unitydaddy">Telegram Channel</a>
-- <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>
-- <a href="https://boosty.to/devsdaddy">Buy me a Beer (Boosty)</a>
-
-<br clear="both">
-
-<h2 align="left">My Profile Statistics</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevsDaddy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=My%20Development%20Profile%20Stats:" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevsDaddy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2&custom_title=My%20Profile%20Stack:" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">My Latest Achievements</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=DevsDaddy&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
 
 <br clear="both">
 
