@@ -133,13 +133,3 @@
 </table>
 
 <br clear="both">
-
-<h4 align="center">Thank you for visits:</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DevsDaddy/count.svg?"  />
-</div>
